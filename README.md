@@ -18,6 +18,44 @@ Have a look ⬇️
 **Deploying:** [Vercel](https://personal-bookshelf.vercel.app/)
 
 
+
+
+
+# Personal book shelf
+
+Welcome to Personal book shelf! This guide will help you set up and run the application on your local machine.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Node.js: [Download Node.js](https://nodejs.org/)
+- npm (Node Package Manager): It usually comes with Node.js, but you can update it to the latest version with `npm install -g npm`.
+
+## Getting Started
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/SumitKDSarkar/PersonalBookshelf.git
+
+   i) Navigate to the project directory:
+       ```bash
+    cd your-react-app
+
+   ii) Install project dependencies:
+       ```bash
+     npm install
+
+   iii) To run your React application locally, use the following command:
+       ```bash
+     npm start
+
+
+     This will start the development server, and your app will be available at http://localhost:3000.
+
+
+
 ## Contributors:
 ## @Sumit
 
