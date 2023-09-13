@@ -1,6 +1,6 @@
 
 
-# Brain Strom Force Assessment
+# Marquee Equity Assessment
 
 Hello Everyone, my name is Sumit and I would like to share my Experience in this assesment, this time a company called Marquee Equity give me an oppotunity to build this assignment as a part of there interview process.
 
